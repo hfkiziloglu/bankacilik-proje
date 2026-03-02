@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Veritabanı
+*.db
+*.sqlite3
+bank.db
+
+# Ortam değişkenleri
+.env
+.env.local
